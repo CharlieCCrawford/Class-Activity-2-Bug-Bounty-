@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Team name** | _[Your team name]_ |
+| **Team name** | Charlie Crawford |
 | **Program** | B: Student Grade Lookup |
 
 ## Bugs found
